@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CermaApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tambahkan override warna -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryContainer">@color/primaryVariant</item>
+        <item name="android:statusBarColor">@color/primaryColor</item> <!-- Untuk status bar -->
+        <item name="android:navigationBarColor">@color/primaryColor</item> <!-- Jika ingin -->
+        <item name="colorOnPrimary">@color/onPrimary</item>
+    </style>
+
+    <style name="Theme.CermaApp" parent="Base.Theme.CermaApp" />
+</resources>

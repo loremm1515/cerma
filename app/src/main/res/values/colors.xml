@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Ubah ke warna biru yang kamu minta -->
+    <color name="primaryColor">#0256FE</color>
+    <color name="primaryVariant">#0256FE</color>
+    <color name="onPrimary">#FFFFFF</color>
+</resources>
